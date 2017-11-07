@@ -1,0 +1,71 @@
+[{
+	"BpRole": "BpRole 1",
+	"Shorttext": "Shorttext 1",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%201')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 2",
+	"Shorttext": "Shorttext 2",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%202')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 3",
+	"Shorttext": "Shorttext 3",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%203')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 4",
+	"Shorttext": "Shorttext 4",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%204')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 5",
+	"Shorttext": "Shorttext 5",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%205')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 6",
+	"Shorttext": "Shorttext 6",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%206')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 7",
+	"Shorttext": "Shorttext 7",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%207')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 8",
+	"Shorttext": "Shorttext 8",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%208')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 9",
+	"Shorttext": "Shorttext 9",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%209')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}, {
+	"BpRole": "BpRole 10",
+	"Shorttext": "Shorttext 10",
+	"__metadata": {
+		"uri": "VH_BPRoleSet('BpRole%2010')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_BPRole"
+	}
+}]

@@ -1,0 +1,71 @@
+[{
+	"TypeCode": "TypeCode 1",
+	"Shorttext": "Shorttext 1",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%201')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 2",
+	"Shorttext": "Shorttext 2",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%202')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 3",
+	"Shorttext": "Shorttext 3",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%203')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 4",
+	"Shorttext": "Shorttext 4",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%204')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 5",
+	"Shorttext": "Shorttext 5",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%205')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 6",
+	"Shorttext": "Shorttext 6",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%206')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 7",
+	"Shorttext": "Shorttext 7",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%207')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 8",
+	"Shorttext": "Shorttext 8",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%208')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 9",
+	"Shorttext": "Shorttext 9",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%209')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}, {
+	"TypeCode": "TypeCode 10",
+	"Shorttext": "Shorttext 10",
+	"__metadata": {
+		"uri": "VH_ProductTypeCodeSet('TypeCode%2010')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.VH_ProductTypeCode"
+	}
+}]

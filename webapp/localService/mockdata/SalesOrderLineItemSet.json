@@ -1,0 +1,271 @@
+[{
+	"SalesOrderID": "SalesOrderID 1",
+	"ItemPosition": "ItemPosition 1",
+	"ProductID": "ProductID 1",
+	"Note": "Note 1",
+	"NoteLanguage": "NoteLanguage 1",
+	"CurrencyCode": "CurrencyCode 1",
+	"GrossAmount": 4627.67,
+	"NetAmount": 3351.48,
+	"TaxAmount": 9162.96,
+	"DeliveryDate": "/Date(1009240765000)/",
+	"Quantity": 8491.38,
+	"QuantityUnit": "QuantityUnit 1",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%201',ItemPosition='ItemPosition%201')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%201',ItemPosition='ItemPosition%201')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%201',ItemPosition='ItemPosition%201')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 2",
+	"ItemPosition": "ItemPosition 2",
+	"ProductID": "ProductID 2",
+	"Note": "Note 2",
+	"NoteLanguage": "NoteLanguage 2",
+	"CurrencyCode": "CurrencyCode 2",
+	"GrossAmount": 811.55,
+	"NetAmount": 1709.42,
+	"TaxAmount": 150.66,
+	"DeliveryDate": "/Date(989883565000)/",
+	"Quantity": 8588.37,
+	"QuantityUnit": "QuantityUnit 2",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%202',ItemPosition='ItemPosition%202')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%202',ItemPosition='ItemPosition%202')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%202',ItemPosition='ItemPosition%202')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 3",
+	"ItemPosition": "ItemPosition 3",
+	"ProductID": "ProductID 3",
+	"Note": "Note 3",
+	"NoteLanguage": "NoteLanguage 3",
+	"CurrencyCode": "CurrencyCode 3",
+	"GrossAmount": 2779.37,
+	"NetAmount": 5136.6,
+	"TaxAmount": 6713.3,
+	"DeliveryDate": "/Date(1066779565000)/",
+	"Quantity": 4251.61,
+	"QuantityUnit": "QuantityUnit 3",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%203',ItemPosition='ItemPosition%203')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%203',ItemPosition='ItemPosition%203')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%203',ItemPosition='ItemPosition%203')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 4",
+	"ItemPosition": "ItemPosition 4",
+	"ProductID": "ProductID 4",
+	"Note": "Note 4",
+	"NoteLanguage": "NoteLanguage 4",
+	"CurrencyCode": "CurrencyCode 4",
+	"GrossAmount": 4291.37,
+	"NetAmount": 2551.96,
+	"TaxAmount": 9081.19,
+	"DeliveryDate": "/Date(1238200765000)/",
+	"Quantity": 3767.61,
+	"QuantityUnit": "QuantityUnit 4",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%204',ItemPosition='ItemPosition%204')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%204',ItemPosition='ItemPosition%204')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%204',ItemPosition='ItemPosition%204')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 5",
+	"ItemPosition": "ItemPosition 5",
+	"ProductID": "ProductID 5",
+	"Note": "Note 5",
+	"NoteLanguage": "NoteLanguage 5",
+	"CurrencyCode": "CurrencyCode 5",
+	"GrossAmount": 671.1,
+	"NetAmount": 3973,
+	"TaxAmount": 1888.16,
+	"DeliveryDate": "/Date(1186529965000)/",
+	"Quantity": 508.43,
+	"QuantityUnit": "QuantityUnit 5",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%205',ItemPosition='ItemPosition%205')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%205',ItemPosition='ItemPosition%205')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%205',ItemPosition='ItemPosition%205')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 6",
+	"ItemPosition": "ItemPosition 6",
+	"ProductID": "ProductID 6",
+	"Note": "Note 6",
+	"NoteLanguage": "NoteLanguage 6",
+	"CurrencyCode": "CurrencyCode 6",
+	"GrossAmount": 6813.62,
+	"NetAmount": 619.24,
+	"TaxAmount": 4582.61,
+	"DeliveryDate": "/Date(1037320765000)/",
+	"Quantity": 379,
+	"QuantityUnit": "QuantityUnit 6",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%206',ItemPosition='ItemPosition%206')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%206',ItemPosition='ItemPosition%206')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%206',ItemPosition='ItemPosition%206')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 7",
+	"ItemPosition": "ItemPosition 7",
+	"ProductID": "ProductID 7",
+	"Note": "Note 7",
+	"NoteLanguage": "NoteLanguage 7",
+	"CurrencyCode": "CurrencyCode 7",
+	"GrossAmount": 8082.76,
+	"NetAmount": 562.71,
+	"TaxAmount": 9602.36,
+	"DeliveryDate": "/Date(1495150765000)/",
+	"Quantity": 3840.77,
+	"QuantityUnit": "QuantityUnit 7",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%207',ItemPosition='ItemPosition%207')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%207',ItemPosition='ItemPosition%207')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%207',ItemPosition='ItemPosition%207')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 8",
+	"ItemPosition": "ItemPosition 8",
+	"ProductID": "ProductID 8",
+	"Note": "Note 8",
+	"NoteLanguage": "NoteLanguage 8",
+	"CurrencyCode": "CurrencyCode 8",
+	"GrossAmount": 3143.1,
+	"NetAmount": 3558.29,
+	"TaxAmount": 1204.31,
+	"DeliveryDate": "/Date(1564097965000)/",
+	"Quantity": 3996.75,
+	"QuantityUnit": "QuantityUnit 8",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%208',ItemPosition='ItemPosition%208')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%208',ItemPosition='ItemPosition%208')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%208',ItemPosition='ItemPosition%208')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 9",
+	"ItemPosition": "ItemPosition 9",
+	"ProductID": "ProductID 9",
+	"Note": "Note 9",
+	"NoteLanguage": "NoteLanguage 9",
+	"CurrencyCode": "CurrencyCode 9",
+	"GrossAmount": 7955.73,
+	"NetAmount": 6134.73,
+	"TaxAmount": 250,
+	"DeliveryDate": "/Date(1248737965000)/",
+	"Quantity": 2438.72,
+	"QuantityUnit": "QuantityUnit 9",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%209',ItemPosition='ItemPosition%209')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%209',ItemPosition='ItemPosition%209')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%209',ItemPosition='ItemPosition%209')/ToProduct"
+		}
+	}
+}, {
+	"SalesOrderID": "SalesOrderID 10",
+	"ItemPosition": "ItemPosition 10",
+	"ProductID": "ProductID 10",
+	"Note": "Note 10",
+	"NoteLanguage": "NoteLanguage 10",
+	"CurrencyCode": "CurrencyCode 10",
+	"GrossAmount": 4624.44,
+	"NetAmount": 2195.37,
+	"TaxAmount": 8324.72,
+	"DeliveryDate": "/Date(1250638765000)/",
+	"Quantity": 1473.23,
+	"QuantityUnit": "QuantityUnit 10",
+	"__metadata": {
+		"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%2010',ItemPosition='ItemPosition%2010')",
+		"type": "/IWBEP/GWSAMPLE_BASIC.SalesOrderLineItem"
+	},
+	"ToHeader": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%2010',ItemPosition='ItemPosition%2010')/ToHeader"
+		}
+	},
+	"ToProduct": {
+		"__deferred": {
+			"uri": "SalesOrderLineItemSet(SalesOrderID='SalesOrderID%2010',ItemPosition='ItemPosition%2010')/ToProduct"
+		}
+	}
+}]

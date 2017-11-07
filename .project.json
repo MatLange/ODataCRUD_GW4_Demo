@@ -1,0 +1,9 @@
+{
+  "mockpreview": {
+    "loadJSONFiles": true,
+    "mockUri": "/sap/opu/odata/SAP/ZPRODUCTSET_SRV/",
+    "metadataFilePath": "localService/metadata.xml",
+    "loadCustomRequests": false,
+    "mockRequestsFilePath": ""
+  }
+}
